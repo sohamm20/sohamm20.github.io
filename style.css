@@ -27,7 +27,8 @@ input[type=text], select {
 }
 
 input[type=submit] {
-  width: 5%;
+  /* width: 5%; */
+  display: inline-block;
   background-color: #4CAF50;
   color: white;
   padding: 14px 20px;
